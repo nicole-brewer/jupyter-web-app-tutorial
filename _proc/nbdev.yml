@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "scipy23-jupyter-web-app-tutorial"
+  site-url: "https://nicole-brewer.github.io/scipy23-jupyter-web-app-tutorial"
+  description: "A SciPy'23 tutorial about creating complex web applications in Jupyter Notebooks"
+  repo-branch: main
+  repo-url: "https://github.com/nicole-brewer/scipy23-jupyter-web-app-tutorial"
