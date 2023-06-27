@@ -1,1 +1,0 @@
-Sitemap: https://nicole-brewer.github.io/scipy23-jupyter-web-app-tutorial/sitemap.xml
