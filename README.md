@@ -43,11 +43,21 @@ please follow the instructions below.
 1.  Clone this repository with `git clone https://github.com/nicole-brewer/scipy23-jupyter-web-app-tutorial`
 2.  If you don’t have it already, you will need to [download and install
     Miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
-3.  Run `conda env create -f environment.yml` to create a conda
+3.  Change directories with `cd scipy23-jupyter-web-app-tutorial`
+4.  Run `conda env create -f environment.yml` to create a conda
     environment called `jupyter-web-application`
-4.  Run `conda activate jupyter-web-application` to activate the conda
+5.  Run `conda activate jupyter-web-application` to activate the conda
     environment
-5.  Run `jupyter lab` to launch JupyterLab
+6.  Run `jupyter lab` to launch JupyterLab
+
+All together that is...
+```
+git clone https://github.com/nicole-brewer/scipy23-jupyter-web-app-tutorial
+cd scipy23-jupyter-web-app-tutorial
+conda env create -f environment.yml
+conda activate jupyter-web-application
+jupyter lab
+```
 
 ## How to use
 
